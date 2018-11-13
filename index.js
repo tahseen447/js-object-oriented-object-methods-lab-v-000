@@ -9,5 +9,10 @@ function BoardMember(name, homeState, training){
   this.approve = function(){
     return "You can do that!";
   }
-  this.doCharity
+  this.doCharity = function(){
+    
+  }
+  this.releasePressStatement= function() {
+    
+  }
 }
